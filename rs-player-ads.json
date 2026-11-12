@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "enabled": false,
+  "bannerId": "R-M-20395326-1",
+  "placements": {
+    "books_library": true,
+    "music_library": true,
+    "books_player": true,
+    "music_player": true
+  }
+}
